@@ -1,0 +1,14 @@
+Requirements:
+1. You should be a College Student with any branch/stream.
+2. You should know a programming language in deep.
+
+Steps:
+1. Go to any organisation or go to explore option on github
+2. Search for your favourite topic.
+3. Choose the field of your choice and read the readme file of that repo
+4. Click on the open issues tab and choose which issue you want to solve.
+5. Request for the issue to assign to you.
+6. FCFS is the order of assigning issue.
+7. Work on the issue to resolve and look out for any commnts/suggestions from other contributers or maintainers.
+8. Keep trying to make the problem to resolve in best possible way.
+9. After issue is resolved completely, your solution will merge into main code.
